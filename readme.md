@@ -56,10 +56,10 @@
 ### 5 Level
 ![5 Level](https://github.com/Piotrekp94/PyArkanoid/blob/master/images/documentation/5Level.png)
 ### BeatGameScreen
-![BeatGameScreen](https://github.com/Piotrekp94/PracowniaJezykowSkryptowych/blob/master/Projekt2/images/documentation/BeatGameScreen.png)
+![BeatGameScreen](https://github.com/Piotrekp94/PyArkanoid/blob/master/images/documentation/BeatGameScreen.png)
 ### LostGameScreen
-![LostGameScreen](https://github.com/Piotrekp94/PracowniaJezykowSkryptowych/blob/master/Projekt2/images/documentation/LostGameScreen.png)
+![LostGameScreen](https://github.com/Piotrekp94/PyArkanoid/blob/master/images/documentation/LostGameScreen.png)
 ### ScoresMenu
-![ScoresMenu](https://github.com/Piotrekp94/PracowniaJezykowSkryptowych/blob/master/Projekt2/images/documentation/ScoresMenu.png)
+![ScoresMenu](https://github.com/Piotrekp94/PyArkanoid/blob/master/images/documentation/ScoresMenu.png)
 ### PauseScreen
-![PauseScreen](https://github.com/Piotrekp94/PracowniaJezykowSkryptowych/blob/master/Projekt2/images/documentation/PauseScreen.png)
+![PauseScreen](https://github.com/Piotrekp94/PyArkanoid/blob/master/images/documentation/PauseScreen.png)
