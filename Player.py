@@ -10,7 +10,7 @@ class Player(pygame.sprite.Sprite):
         self.startingPosition = (x, y)
         self.surf = pygame.Surface((30, 10))
         self.surf.fill((255, 0, 0))
-        self.surf = pygame.image.load("images/belka.png").convert()
+        self.surf = pygame.image.load("images/player.png").convert()
         self.rect = self.surf.get_rect(center=self.startingPosition)
         self.screenWidth = width
         self.lives = 3

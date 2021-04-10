@@ -2,6 +2,11 @@
 
 ### This game was done as university project - there is no gameplay value inside, only implementation of basic mechanics
 
+## 3rdParties:
+Sound: https://www.jamendo.com/track/1090947/iones 
+
+Graphics: https://opengameart.org/content/breakout-brick-breaker-tile-set-free
+
 ## Dependencies
 
 |Dependency|Version|
