@@ -1,0 +1,11 @@
+*
+!*/
+.idea/
+# Don't ignore .gitignore and *.foo files
+!.gitignore
+!*.sh
+!*.py
+!*.png
+!*.md
+!*.mp3
+venv/
