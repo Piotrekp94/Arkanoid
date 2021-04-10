@@ -1,9 +1,9 @@
 import pygame
 from pygame.locals import KEYDOWN
 
-from Projekt2.LevelManager import LevelManager
-from Projekt2.Player import Player
-from Projekt2.levels.MainMenuLevel import MainMenu
+from LevelManager import LevelManager
+from Player import Player
+from levels.MainMenuLevel import MainMenu
 
 
 class GameLoop:

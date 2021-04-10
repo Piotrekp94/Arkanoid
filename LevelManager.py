@@ -4,9 +4,9 @@ import numpy as np
 import pygame
 from numpy.linalg import norm
 
-from Projekt2.Brick import Brick
-from Projekt2.levels.EndGameLevel import EndGameLevel
-from Projekt2.levels.GameLevel import GameLevel
+from Brick import Brick
+from levels.EndGameLevel import EndGameLevel
+from levels.GameLevel import GameLevel
 
 
 class LevelManager:

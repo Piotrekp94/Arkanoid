@@ -44,17 +44,17 @@
 ## Levels
 
 ### MainMenu
-![MainMenu](https://github.com/Piotrekp94/PracowniaJezykowSkryptowych/blob/master/Projekt2/images/documentation/MainMenu.png)
+![MainMenu](https://github.com/Piotrekp94/PyArkanoid/blob/master/images/documentation/MainMenu.png)
 ### 1 Level
-![1 Level](https://github.com/Piotrekp94/PracowniaJezykowSkryptowych/blob/master/Projekt2/images/documentation/1Level.png)
+![1 Level](https://github.com/Piotrekp94/PyArkanoid/blob/master/images/documentation/1Level.png)
 ### 2 Level
-![2 Level](https://github.com/Piotrekp94/PracowniaJezykowSkryptowych/blob/master/Projekt2/images/documentation/2Level.png)
+![2 Level](https://github.com/Piotrekp94/PyArkanoid/blob/master/images/documentation/2Level.png)
 ### 3 Level
-![3 Level](https://github.com/Piotrekp94/PracowniaJezykowSkryptowych/blob/master/Projekt2/images/documentation/3Level.png)
+![3 Level](https://github.com/Piotrekp94/PyArkanoid/blob/master/images/documentation/3Level.png)
 ### 4 Level
-![4 Level](https://github.com/Piotrekp94/PracowniaJezykowSkryptowych/blob/master/Projekt2/images/documentation/4Level.png)
+![4 Level](https://github.com/Piotrekp94/PyArkanoid/blob/master/images/documentation/4Level.png)
 ### 5 Level
-![5 Level](https://github.com/Piotrekp94/PracowniaJezykowSkryptowych/blob/master/Projekt2/images/documentation/5Level.png)
+![5 Level](https://github.com/Piotrekp94/PyArkanoid/blob/master/images/documentation/5Level.png)
 ### BeatGameScreen
 ![BeatGameScreen](https://github.com/Piotrekp94/PracowniaJezykowSkryptowych/blob/master/Projekt2/images/documentation/BeatGameScreen.png)
 ### LostGameScreen

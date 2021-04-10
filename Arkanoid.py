@@ -1,6 +1,6 @@
 import pygame
 
-from Projekt2.GameLoop import GameLoop
+from GameLoop import GameLoop
 
 pygame.init()
 

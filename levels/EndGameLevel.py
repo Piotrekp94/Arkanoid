@@ -1,6 +1,6 @@
 import pygame
 
-from Projekt2.levels.GameLevel import GameLevel
+from levels.GameLevel import GameLevel
 
 
 class EndGameLevel(GameLevel):

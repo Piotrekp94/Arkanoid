@@ -1,7 +1,7 @@
 import pygame
 from pygame.locals import K_RETURN
 
-from Projekt2.levels.Level import Level
+from levels.Level import Level
 
 
 class ScoreLevel(Level):

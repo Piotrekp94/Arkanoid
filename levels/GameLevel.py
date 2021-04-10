@@ -1,8 +1,8 @@
 import pygame
 from pygame.locals import K_p, K_n, K_ESCAPE
 
-from Projekt2.Ball import Ball
-from Projekt2.levels.Level import Level
+from Ball import Ball
+from levels.Level import Level
 
 
 class GameLevel(Level):

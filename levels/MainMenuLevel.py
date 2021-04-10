@@ -1,8 +1,8 @@
 import pygame
 from pygame.locals import K_UP, K_DOWN, K_RETURN
 
-from Projekt2.levels.Level import Level
-from Projekt2.levels.ScoreLevel import ScoreLevel
+from levels.Level import Level
+from levels.ScoreLevel import ScoreLevel
 
 
 class MainMenu(Level):
